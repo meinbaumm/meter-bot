@@ -1,0 +1,7 @@
+config.py
+*.ipynb
+__pycache__
+.idea
+test.py
+.env
+venv
