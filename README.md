@@ -33,4 +33,4 @@ Also, my bot can serve as a template for creating other useful bots.
       2. `flushall`
 6. `touch config.py && cp config_example.py config.py`
 7. Fill in your `config.py` file.
-8. Run *(after running backend)* `python3 bot.py`
+8. Run `python3 bot.py`
